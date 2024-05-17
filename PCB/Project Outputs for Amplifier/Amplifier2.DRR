@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Amplifier2.PcbDoc   11/13/2023  5:33:04 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Amplifier2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             8         PTH        101.31mm (3.99inch)
+T2      0.711mm (28mil)                                           Round             4         PTH        68.16mm (2.68inch)
+T3      0.75mm (30mil)                                            Round             4         PTH        12.73mm (0.50inch)
+T4      0.8mm (31mil)                                             Round             8         PTH        105.88mm (4.17inch)
+T5      0.85mm (33mil)                                            Round             26        PTH        241.26mm (9.50inch)
+T6      0.9mm (35mil)                                             Round             24        PTH        111.44mm (4.39inch)
+T7      1mm (39mil)                                               Round             4         PTH        26.09mm (1.03inch)
+T8      1.05mm (41mil)                                            Round             12        PTH        94.34mm (3.71inch)
+T9      1.1mm (43mil)                                             Round             6         PTH        33.08mm (1.30inch)
+T10     1.2mm (47mil)                                             Round             18        PTH        202.59mm (7.98inch)
+T11     1.3mm (51mil)                                             Round             3         PTH        5.08mm (0.20inch)
+T12     3.2mm (126mil)                                            Round             4         PTH        262.52mm (10.34inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              121
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=NetQ1_3 Pin=R16-2
+Removed Member From Class: ClassName=Amplifier Member=R16
+Added Component: Designator=J7(SC_SMT_3_81_180G_02)
+Add component (AddParameter): Name = "Colour"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.weidmueller.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://catalog.weidmueller.com/catalog/Start.do?localeId=en&ObjectID=1863720000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_surface"; Value = "tinned"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulating_material"; Value = "LCP GF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Weidmueller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting_onto_the_PCB"; Value = "Reflow solder connection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No_of_poles"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outgoing_elbow"; Value = "180°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SC_SMT_3_81_180G_02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1863720000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch_inch"; Value = "0.15 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch_mm"; Value = "3.81 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qty"; Value = "50 PCS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated_current_min_no_of_poles_TU_20_deg_C"; Value = "17.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated_current_use_group_B_UL_1059"; Value = "10 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated_voltage_for_surge_voltage_class_pollution_degree_II_2"; Value = "320 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated_voltage_use_group_B_UL_1059"; Value = "300 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Short_text_for_material"; Value = "SC-SMT 3.81/02/180G 1.5SN BK BX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Side_termination_characteristic"; Value = "closed side"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder_pin_length_mm"; Value = "1.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UL_94_flammability_rating"; Value = "V-0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J7-A1
+Added Pin To Net: NetName=NetQ1_3 Pin=J7-A2
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetJ7_A2
+Added Member To Class: ClassName=Amplifier Member=Component J7 Speaker

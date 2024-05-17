@@ -1,0 +1,43 @@
+Added Component: Designator=C14(FP-RAD-TH-D_16_0_5-L_25_2-MFG)
+Added Component: Designator=C15(FP-RAD-TH-D_16_0_5-L_25_2-MFG)
+Added Component: Designator=C16(CAPPR55-200-1100X500X1200)
+Added Component: Designator=C17(CAPPR55-200-1100X500X1200)
+Added Component: Designator=C18(VISH-K104K15X7RF5TL2)
+Added Component: Designator=C19(VISH-K104K15X7RF5TL2)
+Added Component: Designator=C?(FP-RAD-TH-D_6_3_0_5-L_11-MFG)
+Added Component: Designator=C?(CAPPR55-200-1100X500X1200)
+Added Component: Designator=R?(RES_AC01_VIS)
+Added Component: Designator=R?(RES_AC01_VIS)
+Added Component: Designator=R?(RES_AC01_VIS)
+Added Component: Designator=U4(TO220)
+Added Component: Designator=U5(TO-220)
+Added Component: Designator=U?(P0008A)
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-3
+Added Net: Name=NetC14_1
+Added Net: Name=NetC14_2
+Added Net: Name=NetC15_1
+Added Net: Name=NetC16_1
+Added Net: Name=NetC17_2
+Add Net: Net with name "NetC?_2" already exists
+Added Net: Name=NetU4_2
+Add Class Member: Failed to add class member : Component C14 1000uF 50V
+Add Class Member: Failed to add class member : Component C15 1000uF 50V
+Add Class Member: Failed to add class member : Component C16 10uF 50V
+Add Class Member: Failed to add class member : Component C17 10uF 50V
+Add Class Member: Failed to add class member : Component C18 100nF 50V
+Add Class Member: Failed to add class member : Component C19 100nF 50V
+Add Class Member: Failed to add class member : Component C? ECA2CHG2R2
+Add Class Member: Failed to add class member : Component C? ECA-1HHG010
+Add Class Member: Failed to add class member : Component R? AC01000001007JA100
+Add Class Member: Failed to add class member : Component R? AC01000001007JA100
+Add Class Member: Failed to add class member : Component R? AC01000001007JA100
+Add Class Member: Failed to add class member : Component U4 L7815CV
+Add Class Member: Failed to add class member : Component U5 L7915CV
+Add Class Member: Failed to add class member : Component U? NE5532P

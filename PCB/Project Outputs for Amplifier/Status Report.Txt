@@ -1,0 +1,38 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Amplifier.PrjPcb]
+   Generated File[Amplifier.GTO]
+   Generated File[Amplifier.GTP]
+   Generated File[Amplifier.GTS]
+   Generated File[Amplifier.GTL]
+   Generated File[Amplifier.GBL]
+   Generated File[Amplifier.GBS]
+   Generated File[Amplifier.GBP]
+   Generated File[Amplifier.GBO]
+   Generated File[Amplifier.GM1]
+   Generated File[Amplifier.GM2]
+   Generated File[Amplifier.GM3]
+   Generated File[Amplifier.GM5]
+   Generated File[Amplifier.GM13]
+   Generated File[Amplifier.GM15]
+   Generated File[Amplifier.GM16]
+   Generated File[Amplifier.GM20]
+   Generated File[Amplifier.GM21]
+   Generated File[Amplifier.GM23]
+   Generated File[Amplifier.GM24]
+   Generated File[Amplifier.GKO]
+   Generated File[Amplifier.GPT]
+   Generated File[Amplifier.GPB]
+   Generated File[Amplifier2.GML]
+   Generated File[Amplifier2.1]
+   Generated File[Amplifier.GD1]
+   Generated File[Amplifier.GG1]
+   Generated File[Amplifier.GM]
+   Generated File[Amplifier2.EXTREP]
+   Generated File[Amplifier2.REP]
+
+
+Files Generated   : 29
+Documents Printed : 0
+
+Finished Output Generation At 5:33:55 PM On 11/13/2023

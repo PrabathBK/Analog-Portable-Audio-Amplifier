@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=U3 Old Footprint=FP-0015981-MFG New Footprint=FP-0015981-MFG
+Change Component Footprint: Designator=R1 Old Footprint=FP-RLR07-MFG New Footprint=FP-RLR07-MFG
+Change Component Footprint: Designator=R2 Old Footprint=FP-RLR07-MFG New Footprint=FP-RLR07-MFG
+Change Component Footprint: Designator=R3 Old Footprint=FP-RLR07-MFG New Footprint=FP-RLR07-MFG
+Change Component Footprint: Designator=R14 Old Footprint=FP-RLR07-MFG New Footprint=FP-RLR07-MFG
+Change Component Footprint: Designator=R15 Old Footprint=FP-RLR07-MFG New Footprint=FP-RLR07-MFG
+Change Component Footprint: Designator=R17 Old Footprint=RES_AC01_VIS New Footprint=RES_AC01_VIS
+Change Component Designator: OldDesignator=J1 NewDesignator=J6
+Change Net Name : Old Net Name=NetJ1_A3 New Net Name=NetJ6_A3
+Added Member To Class: ClassName=Amplifier Member=Component J6 Power Input

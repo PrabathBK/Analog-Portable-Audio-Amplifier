@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=J6-A3
+Added Pin To Net: NetName=NetC15_1 Pin=U5-2
+Added Net: Name=NetC15_1
+Added Member To Class: ClassName=Amplifier Member=Component J1 Mono Audio Jack
